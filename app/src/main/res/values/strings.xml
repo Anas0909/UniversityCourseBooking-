@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Deliverables</string>
+    <string name="title_activity_login_student">LoginStudent</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="hello_admin">Hello Admin!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="create_a_course">Create a Course</string>
+    <string name="enter_a_course_code">Enter a Course Code</string>
+    <string name="enter_a_course_name">Enter a Course Name</string>
+    <string name="user_name">User Name</string>
+    <string name="delete_instructor">Delete Instructor</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="edit_a_course">EDIT A COURSE</string>
+    <string name="new_course_code">New Course Code</string>
+    <string name="to_create_a_course_input_a_course_code_and_a_course_name_to_delete_only_course_code_needed_to_edit_a_course_code_and_its_name_enter_a_old_course_code_a_new_course_code_and_a_new_name_to_delete_a_instructor_or_student_account_enter_an_user_name_in_below">To create a course, input a course code and a course name; to delete, only course code needed; to edit a course code and its name, enter a old course code, a new course code and a new name. To delete a instructor or student account, enter an user name in below.</string>
+    <string name="delete_a_course">Delete a Course</string>
+    <string name="new_course_name">New Course Name</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
